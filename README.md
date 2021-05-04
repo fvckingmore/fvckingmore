@@ -1,8 +1,10 @@
 # Hello there 👋
 
+> Adrian Moreno
+
 #### This is a personal repo for dotfiles n some *college stuffs*.<br>
 
-The Backend things in coming soon...
+The **Backend Things** is coming soon...
 
 Enjoy
 
